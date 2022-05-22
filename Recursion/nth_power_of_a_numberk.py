@@ -1,6 +1,6 @@
 #Practice - https://bit.ly/3FPCfV3
 def pow(x,n):
-    if(n==0 ):
+    if(n==0):
         return 1
     else:
         mul=x*pow(x,n-1)
