@@ -3,8 +3,8 @@ def fibo(n):
     if(n==1 or n==2):
         return 1
     else:
-        partialnminus1=fibo(n-1)
-        partialnminus2=fibo(n-2)
-        return partialnminus1+partialnminus2
+        p1=fibo(n-1)
+        p2=fibo(n-2)
+        return p1+p2
 n=int(input())
 print(fibo(n)) 
