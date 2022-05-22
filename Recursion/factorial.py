@@ -11,4 +11,4 @@ if n>=0:
     x=factorial(n)
     print (x)
 else:
-    print("Error.")
+    print("Error")
