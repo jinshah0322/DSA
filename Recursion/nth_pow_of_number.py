@@ -1,7 +1,4 @@
 #Practice - https://bit.ly/3FPCfV3
-import re
-
-
 def pow(x,n):
     if(n==0):
         return 1
