@@ -1,0 +1,4 @@
+1) Identify weather a problem is recursive or not
+2)Do small work
+3)Ask recursion to do remaining work
+4)Base condition
