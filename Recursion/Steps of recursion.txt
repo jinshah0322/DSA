@@ -2,3 +2,5 @@
 2)Do small work
 3)Ask recursion to do remaining work
 4)Base condition
+
+NOTE:Step 3 and 4 are interchangabel 
