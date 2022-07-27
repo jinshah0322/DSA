@@ -10,4 +10,4 @@ if(n<0):
     print("Enter valid number")
 else:
     x=sum(n)
-    print(x)
+    print(x) #print sum of n natural numbers
